@@ -253,8 +253,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\rohan\source\repos\cw_3_resit-Rohanr7916\Main.cpp" />
+    <ClCompile Include="ProcessOfFilecpp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ProcessOfFile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
